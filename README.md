@@ -1,4 +1,4 @@
-
+最重要的是 /static/json/map.json 这个数据文件
 
 ``` bash
 # install dependencies
